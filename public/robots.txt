@@ -1,0 +1,6 @@
+# Allow all user agents to access everything
+User-agent: *
+Disallow: /admin/
+
+# Sitemap location 
+Sitemap: https://construsteelestruturas.com.br/sitemap-index.xml
